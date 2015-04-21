@@ -1,0 +1,148 @@
+
+[
+    {
+        "attribue": "match dom",
+        "values": [
+            {
+                "name": "v"
+            },
+            {
+                "name": "f"
+            },
+            {
+                "name": "v"
+            },
+            {
+                "name": "v"
+            },
+            {
+                "name": "f"
+            },
+            {
+                "name": "f"
+            },
+            {
+                "name": "v"
+            },
+            {
+                "name": "v"
+            }
+        ]
+    },
+    {
+        "attribue":"balbance pos",
+        "values":[
+            {
+                "name":"v"
+            },
+            {
+                "name":"f"
+            },
+            {
+                "name":"v"
+            },
+            {
+                "name":"v"
+            },
+            {
+                "name":"v"
+            },
+            {
+                "name":"f"
+            },
+            {
+                "name":"f"
+            },
+            {
+                "name":"f"
+            }
+        ]
+    },
+    {
+    "attribue":"mauvais climat",
+    "values":[
+        {
+            "name":"f"
+        },
+        {
+            "name":"v"
+        },
+        {
+            "name":"v"
+        },
+        {
+            "name":"f"
+        },
+        {
+            "name":"v"
+        },
+        {
+            "name":"v"
+        },
+        {
+            "name":"f"
+        },
+        {
+            "name":"v"
+        }
+    ]
+},
+    {
+        "attribue":"match prec-gagné",
+        "values":[
+            {
+                "name":"f"
+            },
+            {
+                "name":"v"
+            },
+            {
+                "name":"f"
+            },
+            {
+                "name":"v"
+            },
+            {
+                "name":"v"
+            },
+            {
+                "name":"f"
+            },
+            {
+                "name":"v"
+            },
+            {
+                "name":"f"
+            }
+        ]
+    },
+    {
+        "attribue":"vctoire",
+        "values":[
+            {
+                "name":"v"
+            },
+            {
+                "name":"v"
+            },
+            {
+                "name":"v"
+            },
+            {
+                "name":"v"
+            },
+            {
+                "name":"f"
+            },
+            {
+                "name":"f"
+            },
+            {
+                "name":"f"
+            },
+            {
+                "name":"f"
+            }
+        ]
+    }
+]
